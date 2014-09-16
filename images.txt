@@ -19,5 +19,7 @@ https://www.flickr.com/photos/joybot/7747591166
 
 
 Pair Programming: http://thenounproject.com/term/idea-exchange/16068/
+user-Stories: http://thenounproject.com/term/book/49107/
+
 
 
